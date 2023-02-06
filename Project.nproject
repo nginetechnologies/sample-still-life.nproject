@@ -1,0 +1,40 @@
+{
+    "name": "Still Life",
+    "guid": "6fb30af3-fa9a-47a5-896c-2d344d9dd662",
+    "version": "1.0.0",
+    "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
+    "plugins": [
+        "EAF8C037-4ADF-4A97-99FD-915341D1854C",
+        "B7921721-4029-47CE-873C-5D356D604AA9",
+        "0F7C1053-884C-4795-A082-2AECF6BA8032"
+    ],
+    "asset_directory": "Assets",
+    "binary_directory": "bin",
+    "library_directory": "lib",
+    "thumbnail_guid": "9dbff3bc-49cf-4377-bf23-7cc7c99d40ec",
+    "default_scene": "94149d02-3b72-4fa0-ba17-29ce5240453e",
+    "source": "Project.nproject",
+    "tags": [ "f5777f96-a43c-4ebd-872a-1eeda5719aaf" ],
+    "settings": {
+        "5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
+            "type": "EF61ECBA-906C-481A-B501-966A6BB4729C",
+            "value": "6ffe9422-1802-53b5-b3a4-ccfcc7dbf9cb"
+        },
+        "18FCF6AA-0531-4A74-9B39-583E0CDA7FD7": {
+            "type": "EF61ECBA-906C-481A-B501-966A6BB4729C",
+            "value": "9052fa57-84df-4984-854d-686f1ad516af"
+        },
+        "935C5DF9-2837-46FE-9F40-2328787F601B": {
+            "type": "EF61ECBA-906C-481A-B501-966A6BB4729C",
+            "value": "b2cd781e-fcee-3545-1ef6-817b5ff17c36"
+        },
+        "FC43DCCC-A186-407D-99A7-44A6CDF8B7B2": {
+            "type": "EF61ECBA-906C-481A-B501-966A6BB4729C",
+            "value": "1f64eceb-d54a-ec1e-4c25-e37d666bd43a"
+        },
+        "30626C44-8263-456E-AB68-94EEB4774C06": {
+            "type": "EF61ECBA-906C-481A-B501-966A6BB4729C",
+            "value": "C85B33E2-CC94-47EF-8553-9948BD3845C4"
+        }
+    }
+}

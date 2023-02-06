@@ -1,0 +1,88 @@
+{
+    "03e09b03-925e-96ee-5cb1-45642db57c04": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Suburbs/Thumbnails/House_Hill_Bracketed_Thumb.tex.nasset"
+    },
+    "1a0dcdc6-4cd1-d547-4ec4-60162b407e88": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Suburbs/Thumbnails/House_Mid_Thumb.tex.nasset"
+    },
+    "1a6d3d39-807c-f549-ca13-44265942caeb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Suburbs/Thumbnails/Gas_Station_Thumb.tex.nasset"
+    },
+    "35ebdafd-3d38-4dd1-ad81-6ebfac3aa855": {
+        "assetTypeGuid": "01c2c136-57b4-4a69-b2af-3c2ea94c3f49",
+        "path": "Project.nproject",
+        "thumbnail": "596fd65b-7dd2-434d-9e8f-6b8919d35ca9"
+    },
+    "37339974-8b51-5cf2-2e27-86011471330b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Suburbs/Thumbnails/House_Modern_Thumb.tex.nasset"
+    },
+    "54ff52af-71f7-b6d5-9655-18f423c432e0": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Suburbs/Thumbnails/House_Luxurious_Thumb.tex.nasset"
+    },
+    "5cc201a4-a15b-0f3c-314b-b992cd49d46e": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Suburbs/Thumbnails/House_Carport_Left_Thumb.tex.nasset"
+    },
+    "62b09ad5-528f-0808-02e7-591716aa818a": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Suburbs/Thumbnails/Minivan_Thumb.tex.nasset"
+    },
+    "69fca8ca-e02a-e9a0-8e90-1da2be42ce68": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Suburbs/Thumbnails/Garage_Thumb.tex.nasset"
+    },
+    "81d0c58b-cd9d-5b36-15c4-c4c1489698bb": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Suburbs/Thumbnails/House_Hill_Thumb.tex.nasset"
+    },
+    "8370c7b9-a3a4-d246-7059-9b88b78fdb98": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Suburbs/Thumbnails/House_02_Thumb.tex.nasset"
+    },
+    "8d1c4bbf-4b91-e64b-fc7e-de148edb9215": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Suburbs/Thumbnails/House_Carport_Right_Thumb.tex.nasset"
+    },
+    "9824761a-7505-6968-4f15-f576b2a5d140": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Suburbs/Thumbnails/Car_Sports_Thumb.tex.nasset"
+    },
+    "982cb218-a88e-cabc-9ba1-af9919bcd319": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Suburbs/Thumbnails/Car_Sedan_Thumb.tex.nasset"
+    },
+    "9b53698f-c83e-5129-758c-51ffc15f2032": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Suburbs/Thumbnails/Car_Tiny_Thumb.tex.nasset"
+    },
+    "aa42184f-fc64-9b44-409a-8d576af619b6": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Suburbs/Thumbnails/Stationwagon_Thumb.tex.nasset"
+    },
+    "ab3081f8-e526-36de-435a-57f2a2b3861b": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Suburbs/Thumbnails/Road_Straight_Double_Thumb.tex.nasset"
+    },
+    "b709b6f2-2521-6e89-1cd1-2d72a0a9ba16": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Suburbs/Thumbnails/Tree_Round_Thumb.tex.nasset"
+    },
+    "d801fe4b-fd4b-57c2-b8be-6f7935dc004c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Suburbs/Thumbnails/House_Country_Thumb.tex.nasset"
+    },
+    "dcf33ef6-ecf7-260e-01d3-051341edb85c": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Suburbs/Thumbnails/Road_Straight_Single_Thumb.tex.nasset"
+    },
+    "dd1b74a1-eed2-55a8-0d55-3e6a8c9a2589": {
+        "assetTypeGuid": "c4e01aa2-495d-4eb1-b9be-fe0e30500b07",
+        "path": "Assets/Suburbs/Thumbnails/House_01_Thumb.tex.nasset"
+    },
+    "guid": "27716981-6216-ea0a-1a82-046803786f3d"
+}
