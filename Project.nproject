@@ -1,6 +1,7 @@
 {
     "name": "Still Life",
-    "guid": "6fb30af3-fa9a-47a5-896c-2d344d9dd662",
+    "guid": "9d32321c-f63e-46b0-81d1-a3a139534955",
+    "database_guid": "ee1d4659-c51a-5542-fbb9-4ceafce921f0",
     "version": "1.0.0",
     "engine": "3ff049e0-0880-4898-879d-1ccf5583c9c6",
     "plugins": [
@@ -11,8 +12,8 @@
     "asset_directory": "Assets",
     "binary_directory": "bin",
     "library_directory": "lib",
-    "thumbnail_guid": "9dbff3bc-49cf-4377-bf23-7cc7c99d40ec",
-    "default_scene": "94149d02-3b72-4fa0-ba17-29ce5240453e",
+    "thumbnail_guid": "f272afb1-7e6b-45c5-9ada-edcac4623f85",
+    "default_scene": "cf7894eb-9101-49bc-936b-8252a60d5ad6",
     "source": "Project.nproject",
     "tags": [ "f5777f96-a43c-4ebd-872a-1eeda5719aaf" ],
     "settings": {
